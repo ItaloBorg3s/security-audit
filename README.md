@@ -7,17 +7,17 @@ This project presents a security audit conducted for a fictitious company, **Bot
 During the audit, I evaluated whether the company had implemented key security controls. Below is a summary of the findings:  
 
 ### **🔒 General Security Controls**  
-✖️ Least Privilege  
-✖️ Disaster recovery plans  
-✖️ Password policies  
-✖️ Separation of duties  
+❌ Least Privilege  
+❌ Disaster recovery plans  
+❌ Password policies  
+❌ Separation of duties  
 ✔️ Firewall  
-✖️ Intrusion Detection System (IDS)  
-✖️ Backups  
+❌ Intrusion Detection System (IDS)  
+❌ Backups  
 ✔️ Antivirus software  
-✖️ Manual monitoring for legacy systems  
-✖️ Encryption  
-✖️ Password management system  
+❌ Manual monitoring for legacy systems  
+❌ Encryption  
+❌ Password management system  
 ✔️ **Locks** (offices, storefront, warehouse)  
 ✔️ **Closed-circuit television (CCTV) surveillance**  
 ✔️ **Fire detection/prevention** (fire alarm, sprinkler system, etc.)  
