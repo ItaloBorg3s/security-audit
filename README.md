@@ -52,4 +52,4 @@ To improve security and compliance, Botium Toys should:
 
 <sub>*This project presents a security audit conducted for a fictitious company, **Botium Toys**, in a controlled, simulated environment. The goal was to assess its compliance with security best practices, identifying gaps and suggesting improvements.*</sub>  
 
----
+
