@@ -1,9 +1,9 @@
-# 🛡️ **Security Audit - Botium Toys**  
+# **Security Audit - Botium Toys**  
 
-## 📟 **Project Description**  
+## **Project Description**  
 This project presents a security audit conducted for a fictitious company, **Botium Toys**. The goal was to assess its compliance with security best practices, identifying gaps and suggesting improvements.  
 
-## 🔍 **Audit Checklist**  
+## **Audit Checklist**  
 During the audit, I evaluated whether the company had implemented key security controls. Below is a summary of the findings:  
 
 ### **🔒 General Security Controls**  
