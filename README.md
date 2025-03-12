@@ -40,7 +40,7 @@ During the audit, I evaluated whether the company had implemented key security c
 ✔️ Data integrity maintained (accuracy, completeness, validation)  
 ❌ Data availability for authorized users  
 
-## 📌 **Recommendations**  
+## **Recommendations**  
 To improve security and compliance, Botium Toys should:  
 - Implement **Least Privilege** and **Separation of Duties** to minimize unauthorized access risks.  
 - Develop a **Disaster Recovery Plan** to ensure business continuity.  
